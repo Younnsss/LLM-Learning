@@ -1,0 +1,78 @@
+[
+  {
+    "id": "q1",
+    "question": "Quels sont les sujets de PFE supplémentaires proposés par Luca Benedetto ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q2",
+    "question": "Comment valider une UE ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q3",
+    "question": "Quel jour est-ce que le cours de Machine Learning a été passé en distanciel ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q4",
+    "question": "Que visent les projets financés par la CVEC ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q5",
+    "question": "La carte étudiante sur téléphone portable est-elle acceptée ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q6",
+    "question": "Quel est l'objectif du module d'anglais ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q7",
+    "question": "Quel est le projet 8605 de Tatian, Salim et Alexandre ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q8",
+    "question": "Quelle entreprise pouvons-nous visiter ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q9",
+    "question": "Quelles sont les missions du comité de la recherche ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q10",
+    "question": "De quel groupe fait partie Télécom SudParis",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q11",
+    "question": "Est-ce que Télécom SudParis est laïque ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q12",
+    "question": "Il y a t-il des associations à Télécom SudParis ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q13",
+    "question": "Qu'est-ce qu'est la FISA ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q14",
+    "question": "Quelle est la météo à la Réunion ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q15",
+    "question": "Explique moi ce que sont les passifs",
+    "expected_doc_type": "admin_pdf"
+  }
+
+]
